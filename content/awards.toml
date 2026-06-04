@@ -3,25 +3,43 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Best Demo Runner-Up"
+subtitle = "ACM MobiCom"
 date = "2025"
-content = "Description of the award."
+content = ""
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Merit Student Pacesetter"
+subtitle = "Peking University"
 date = "2023"
-content = "Description of the award."
+content = ""
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Huatai Science and Technology Scholarship"
+subtitle = "Peking University"
+date = "2023"
+content = ""
+
+[[items]]
+title = "Merit Student Pacesetter"
+subtitle = "Peking University"
 date = "2022"
-content = "Description of the award."
+content = ""
+
+[[items]]
+title = "Huatai Science and Technology Scholarship"
+subtitle = "Peking University"
+date = "2022"
+content = ""
+
+[[items]]
+title = "Award for Academic Excellents"
+subtitle = "Peking University"
+date = "2021"
+content = ""
+
+[[items]]
+title = "The Third Prize of Peking University Scholarship"
+subtitle = "Peking University"
+date = "2021"
+content = ""

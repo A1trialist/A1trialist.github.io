@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <radialGradient id="petalGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#B19CD9" />
+      <stop offset="100%" stop-color="#6A5ACD" />
+    </radialGradient>
+  </defs>
+
+  <circle cx="50" cy="50" r="48" fill="#F8F9FF" />
+
+  <g transform="translate(50, 50)" opacity="0.9">
+    <path d="M-12,-5 Q0,-35 12,-5 Q15,15 0,18 Q-15,15 -12,-5" fill="url(#petalGrad)" transform="rotate(0)" />
+    <path d="M-12,-5 Q0,-35 12,-5 Q15,15 0,18 Q-15,15 -12,-5" fill="url(#petalGrad)" transform="rotate(72)" />
+    <path d="M-12,-5 Q0,-35 12,-5 Q15,15 0,18 Q-15,15 -12,-5" fill="url(#petalGrad)" transform="rotate(144)" />
+    <path d="M-12,-5 Q0,-35 12,-5 Q15,15 0,18 Q-15,15 -12,-5" fill="url(#petalGrad)" transform="rotate(216)" />
+    <path d="M-12,-5 Q0,-35 12,-5 Q15,15 0,18 Q-15,15 -12,-5" fill="url(#petalGrad)" transform="rotate(288)" />
+  </g>
+
+  <circle cx="50" cy="50" r="4" fill="#FFEFBA" />
+  <circle cx="50" cy="50" r="2" fill="#FFF" opacity="0.5" />
+</svg>

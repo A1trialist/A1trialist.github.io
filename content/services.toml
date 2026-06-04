@@ -3,7 +3,6 @@ title = "Services"
 description = "Professional services and community involvement."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "Web Chair"
+subtitle = "1st ACM MobiCom Workshop on Satellite Networking and Computing"
+date = "2023"

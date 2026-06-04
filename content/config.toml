@@ -1,29 +1,29 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Liying Wang"
+description = "PhD student at the Peking University."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "December 13, 2025"
 
 [author]
-name = "Jiale Liu"
+name = "Liying Wang"
 title = "PhD Student"
-institution = "University of Example"
+institution = "Peking University"
 avatar = "/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
+email = "liyingwang.pku@gmail.com"
 location = "City, Country"
 location_url = "https://maps.google.com"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "Room 513, No. 5 Science Building,",
+  "5 Yiheyuan Road, Haidian, Beijing, China"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+google_scholar = "https://scholar.google.com/citations?user=fnuVVeEAAAAJ"
+# orcid = "https://orcid.org"
+# github = "https://github.com"
+# linkedin = "https://linkedin.com"
 
 [features]
 # Show a like button on the about page
@@ -62,8 +62,8 @@ type = "page"
 target = "services"
 href = "/services"
 
-[[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"
+# [[navigation]]
+# title = "CV"
+# type = "page"
+# target = "cv"
+# href = "/cv"

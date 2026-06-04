@@ -1,10 +1,25 @@
 type = "card"
 title = "Teaching"
-description = "Courses I have taught or assisted with."
+description = "Courses I have assisted with."
 
 [[items]]
-title = "Example Course"
+title = "Computer Networks (Honor Track)"
 subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities."
-tags = ["Undergraduate", "CS"]
+date = "2025"
+content = "TA for the honor track of Computer Networks course at Peking University. Responsibilities included assisting in course design, preparing course labs, and grading assignments."
+tags = ["Undergraduate", "School of EECS, Peking University"]
+
+
+[[items]]
+title = "Computer Networks (Honor Track)"
+subtitle = "Teaching Assistant"
+date = "2023"
+content = "TA for the honor track of Computer Networks course at Peking University. Responsibilities included grading assignments and holding office hours."
+tags = ["Undergraduate", "School of EECS, Peking University"]
+
+[[items]]
+title = "Game Theory (Honor Track)"
+subtitle = "Teaching Assistant"
+date = "2022"
+content = "TA for the honor track of Game Theory course at Peking University. Responsibilities included assisting in grading (online) assignments."
+tags = ["Undergraduate", "School of Government Management, Peking University"]
