@@ -1,12 +1,12 @@
 [site]
 title = "Liying Wang"
-description = "PhD student at the Peking University."
+description = "PhD candidate at the Peking University."
 favicon = "/favicon.svg"
 last_updated = "December 13, 2025"
 
 [author]
 name = "Liying Wang"
-title = "PhD Student"
+title = "PhD Candidate"
 institution = "Peking University"
 avatar = "/bio.jpg"
 
